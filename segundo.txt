@@ -1,6 +1,8 @@
 print("chau mundo")
 s
+a
+f
+f
+f
 s
-s
-s
-print("probando la segunda rama")
+print("cambioo")
