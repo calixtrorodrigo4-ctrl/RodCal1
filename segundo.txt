@@ -1,8 +1,2 @@
 print("chau mundo")
-s
-a
-f
-f
-f
-s
 print("cambioo")
