@@ -1,0 +1,6 @@
+print("chau mundo")
+s
+s
+s
+s
+print("probando la segunda rama")
